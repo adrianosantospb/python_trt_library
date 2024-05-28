@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MyApp.dir/src/main.cpp.o -o MyApp   -L/home/adriano/Documents/tools/TensorRT-8.6.0.12/lib  -L/usr/local/cuda-12.5/lib64  -Wl,-rpath,/home/adriano/Documents/tools/TensorRT-8.6.0.12/lib:/usr/local/cuda-12.5/lib64 -lnvinfer -lnvonnxparser /usr/local/cuda-12.5/lib64/libcudart_static.a -ldl /usr/lib/x86_64-linux-gnu/librt.a 
