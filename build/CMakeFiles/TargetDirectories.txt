@@ -1,3 +1,0 @@
-/home/adriano/Documents/aprendizado/nvidia/tensorrt/tutorial/build/CMakeFiles/MyApp.dir
-/home/adriano/Documents/aprendizado/nvidia/tensorrt/tutorial/build/CMakeFiles/edit_cache.dir
-/home/adriano/Documents/aprendizado/nvidia/tensorrt/tutorial/build/CMakeFiles/rebuild_cache.dir
